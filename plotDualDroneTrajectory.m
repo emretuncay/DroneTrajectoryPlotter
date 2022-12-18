@@ -1,7 +1,7 @@
-%% Filename: plotDualDroneTrajectory.m
-%% Explanation: Plot dual drone trajectory
-%% Date: 18:12:2022
-%% Designer: Emre TUNCAY
+% Filename: plotDualDroneTrajectory.m
+% Explanation: Plot dual drone trajectory
+% Date: 18:12:2022
+% Designer: Emre TUNCAY
 
 function plotDualDroneTrajectory( d1_lat,d1_lon,d1_agl,...
                                   d2_lat,d2_lon,d2_agl,...
